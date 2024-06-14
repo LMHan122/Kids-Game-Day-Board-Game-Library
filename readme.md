@@ -16,7 +16,7 @@ helping to understand trends and manage inventory effectively.
 ## Files Overview
 - **Anon_Data_Cleaning_KGD.ipynb** - Jupyter Notebook detailing the cleaning process. 
 - **clean_data_anonymized.csv** - a version of the clean data with PII removed. 
-- **index.html** - embedded view of Tableau dashboard. [Can also be found online here.](https://public.tableau.com/views/KidsGameDay2024-FortWorthGameNight/MYFINALFORMATDASHBOARD?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
+- **index.html** - ['embedded'](https://lmhan122.github.io/Kids-Game-Day-Board-Game-Library/) view of Tableau dashboard. [Can also be found online here.](https://public.tableau.com/views/KidsGameDay2024-FortWorthGameNight/MYFINALFORMATDASHBOARD?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
 - **requirements.txt**
 
 ### Dataset Overview
