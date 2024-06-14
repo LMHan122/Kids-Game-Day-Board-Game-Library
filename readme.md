@@ -13,6 +13,12 @@ features a variety of board games available for borrowing. This project
 aims to provide a comprehensive view of the games checked in and out during the event,
 helping to understand trends and manage inventory effectively.
 
+## Files Overview
+- **Anon_Data_Cleaning_KGD.ipynb** - Jupyter Notebook detailing the cleaning process. 
+- **clean_data_anonymized.csv** - a version of the clean data with PII removed. 
+- **index.html** - embedded view of Tableau dashboard. [Can also be found Tableau Public.](https://public.tableau.com/views/KidsGameDay2024-FortWorthGameNight/MYFINALFORMATDASHBOARD?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
+- **requirements.txt**
+
 ### Dataset Overview
 
 The dataset used in this project includes detailed information about each board game borrowed during the event.
