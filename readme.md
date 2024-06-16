@@ -1,11 +1,5 @@
 # Kids Game Day Dashboard
 
-## Introduction
-
-Welcome to the Kids Game Day Dashboard project! This dashboard visualizes the check-in and check-out
-activities of board games at the Kids Game Day event held in 2024. The data has been meticulously
-cleaned and prepared using both Excel and Python to ensure accurate and meaningful insights.
-
 ## Project Overview
 
 The Kids Game Day event, organized by Fort Worth Game Night,
